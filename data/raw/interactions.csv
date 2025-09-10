@@ -2000,3 +2000,4 @@ user_id,item_id,interaction_type,rating,timestamp,session_id
 79,255,like,3.14,2025-08-25T14:03:17.616098,session_100
 87,467,like,3.4,2025-08-15T04:13:17.616103,session_182
 5,100,like,4.5,2025-09-10T07:15:52.936609,api_session_9156
+5,100,like,4.8,2025-09-10T07:18:14.964112,api_session_7311
