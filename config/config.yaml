@@ -1,0 +1,52 @@
+# Configuration for Content Recommendation System
+
+# Data settings
+data:
+  num_users: 1000
+  num_items: 5000
+  num_interactions: 50000
+  categories: ["technology", "sports", "entertainment", "science", "politics", "health", "travel", "food"]
+  content_types: ["article", "video", "post"]
+
+# Model settings
+models:
+  sentence_bert:
+    model_name: "all-MiniLM-L6-v2"
+    max_length: 512
+  
+  faiss:
+    index_type: "IndexFlatIP"  # Inner Product for cosine similarity
+    nprobe: 10
+  
+  collaborative:
+    als:
+      factors: 50
+      iterations: 50
+      regularization: 0.01
+    
+    neural_cf:
+      embedding_dim: 64
+      hidden_layers: [128, 64, 32]
+      dropout: 0.2
+      learning_rate: 0.001
+      epochs: 100
+      batch_size: 256
+
+# Evaluation settings
+evaluation:
+  k_values: [5, 10, 20]
+  test_split: 0.2
+  random_state: 42
+
+# API settings
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: true
+
+# Paths
+paths:
+  data_dir: "data"
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  models_dir: "models/saved"
