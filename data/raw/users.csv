@@ -1,0 +1,101 @@
+user_id,age,gender,location,preferred_categories,activity_level
+0,58,M,US,"['politics', 'sports', 'travel']",low
+1,65,M,UK,"['travel', 'technology', 'food']",low
+2,31,M,US,"['science', 'health', 'travel']",high
+3,52,F,AU,"['politics', 'travel']",low
+4,28,O,IN,"['politics', 'sports']",low
+5,39,M,UK,"['sports', 'entertainment']",medium
+6,56,F,US,"['food', 'politics', 'technology']",medium
+7,23,O,DE,"['health', 'politics', 'sports']",high
+8,22,M,AU,"['sports', 'travel']",low
+9,24,F,DE,"['health', 'sports']",medium
+10,40,M,DE,"['sports', 'politics', 'health']",low
+11,52,O,AU,['food'],medium
+12,35,O,AU,"['health', 'travel', 'technology']",low
+13,20,F,IN,"['sports', 'food']",high
+14,63,F,AU,"['food', 'science', 'health']",medium
+15,27,F,CA,['politics'],high
+16,55,F,IN,"['science', 'sports']",high
+17,49,M,US,['entertainment'],high
+18,28,O,IN,"['sports', 'science', 'travel']",high
+19,47,O,DE,"['technology', 'health', 'travel']",low
+20,61,O,DE,"['health', 'technology', 'entertainment']",medium
+21,28,F,US,"['politics', 'food', 'sports']",high
+22,24,O,DE,"['science', 'sports', 'entertainment']",low
+23,52,O,US,"['health', 'science', 'technology']",low
+24,41,F,AU,['science'],high
+25,23,M,BR,['entertainment'],low
+26,60,F,CA,"['travel', 'sports']",high
+27,64,O,AU,"['politics', 'science', 'health']",high
+28,41,F,BR,['science'],low
+29,22,F,US,"['science', 'politics', 'sports']",low
+30,22,O,US,['sports'],low
+31,39,M,AU,"['food', 'sports']",high
+32,26,O,BR,['food'],medium
+33,30,M,UK,"['travel', 'entertainment', 'science']",medium
+34,47,O,US,"['sports', 'technology', 'science']",high
+35,39,M,AU,['science'],high
+36,46,M,IN,['politics'],medium
+37,33,M,BR,"['sports', 'technology', 'health']",high
+38,18,M,AU,['travel'],medium
+39,48,M,IN,['entertainment'],medium
+40,18,F,DE,"['politics', 'science']",high
+41,64,O,BR,['science'],medium
+42,31,M,US,"['health', 'technology', 'travel']",high
+43,48,O,CA,['sports'],low
+44,22,O,UK,"['science', 'food', 'technology']",high
+45,33,O,US,"['sports', 'science', 'health']",high
+46,54,O,FR,"['science', 'health']",high
+47,38,M,DE,"['entertainment', 'health']",high
+48,37,F,FR,['technology'],medium
+49,57,O,UK,['science'],high
+50,34,M,FR,['science'],medium
+51,36,M,BR,"['politics', 'food', 'health']",high
+52,18,O,DE,"['sports', 'food', 'entertainment']",low
+53,24,O,CA,"['politics', 'food']",low
+54,63,F,AU,"['politics', 'food', 'science']",medium
+55,21,M,IN,"['technology', 'food']",medium
+56,26,O,DE,['food'],high
+57,63,F,US,['sports'],high
+58,27,O,US,"['entertainment', 'science']",low
+59,20,F,FR,['health'],low
+60,61,M,UK,"['travel', 'politics']",high
+61,27,M,CA,['travel'],low
+62,29,O,FR,"['science', 'entertainment']",low
+63,62,M,IN,['food'],low
+64,30,F,FR,"['science', 'sports']",low
+65,60,M,IN,"['politics', 'travel']",low
+66,35,F,IN,"['health', 'technology', 'travel']",medium
+67,29,O,DE,['sports'],high
+68,45,F,FR,"['sports', 'science']",high
+69,30,F,US,"['travel', 'technology', 'politics']",high
+70,61,O,AU,"['travel', 'technology']",high
+71,39,O,FR,"['sports', 'health', 'entertainment']",high
+72,37,O,IN,"['travel', 'health']",medium
+73,53,M,AU,"['travel', 'health']",high
+74,29,O,DE,"['technology', 'entertainment']",medium
+75,31,F,FR,"['food', 'science']",high
+76,31,O,BR,"['entertainment', 'health', 'technology']",medium
+77,50,O,FR,['science'],high
+78,37,M,AU,['technology'],low
+79,33,F,UK,"['travel', 'health']",high
+80,30,O,IN,"['travel', 'sports']",low
+81,59,O,US,['travel'],low
+82,29,O,BR,['science'],low
+83,47,M,BR,"['health', 'travel', 'science']",high
+84,64,O,IN,"['food', 'sports', 'health']",medium
+85,46,F,AU,"['politics', 'travel', 'food']",medium
+86,58,M,DE,"['sports', 'health']",medium
+87,33,F,FR,"['sports', 'food']",low
+88,32,F,CA,"['science', 'technology', 'food']",medium
+89,39,O,BR,"['technology', 'sports']",medium
+90,42,O,US,"['travel', 'science', 'technology']",medium
+91,37,F,IN,"['science', 'food', 'sports']",medium
+92,45,F,US,"['health', 'food']",high
+93,43,O,CA,"['entertainment', 'politics']",high
+94,19,F,US,['travel'],low
+95,47,M,US,"['travel', 'entertainment']",low
+96,47,F,FR,"['politics', 'travel']",medium
+97,34,M,BR,['technology'],medium
+98,32,O,UK,"['technology', 'travel', 'food']",low
+99,30,M,CA,['entertainment'],medium
