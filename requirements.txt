@@ -1,38 +1,38 @@
 # Core dependencies
-numpy==1.24.3
-pandas==2.0.3
-scikit-learn==1.3.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
 
 # Deep learning and embeddings
-torch==2.0.1
-sentence-transformers==2.2.2
-transformers==4.32.0
+torch>=1.9.0
+sentence-transformers>=2.0.0
+transformers>=4.20.0
 
 # Similarity search
-faiss-cpu==1.7.4
+faiss-cpu>=1.7.0
 
 # Matrix factorization for collaborative filtering
-implicit==0.7.2
+implicit>=0.6.0
 
 # Web framework and API
-fastapi==0.103.0
-uvicorn==0.23.2
-pydantic==2.3.0
+fastapi>=0.95.0
+uvicorn>=0.20.0
+pydantic>=1.10.0
 
 # Frontend
-streamlit==1.25.0
+streamlit>=1.20.0
 
 # Data visualization
-matplotlib==3.7.2
-seaborn==0.12.2
-plotly==5.15.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
 
 # Utilities
-pyyaml==6.0.1
-tqdm==4.65.0
-requests==2.31.0
+pyyaml>=6.0
+tqdm>=4.60.0
+requests>=2.25.0
 
 # Development and testing
-pytest==7.4.0
-black==23.7.0
-flake8==6.0.0
+pytest>=7.0.0
+black>=23.0.0
+flake8>=5.0.0
